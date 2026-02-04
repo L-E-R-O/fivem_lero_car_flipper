@@ -25,7 +25,7 @@ The catch? You'll need to pass a few skill checks to prove you're strong enough.
 
 1. **Download** this resource
 2. Place it in your `resources` folder
-3. Make sure you have [ox_lib](https://github.com/overextendeddev/ox_lib) installed
+3. Make sure you have [ox_lib](https://github.com/overextended/ox_lib) installed
 4. Add this to your `server.cfg`:
    ```cfg
    ensure ox_lib
@@ -58,7 +58,7 @@ You can enable or disable specific vehicle classes. By default, motorcycles, cyc
 
 ## 🛠️ Dependencies
 
-- [ox_lib](https://github.com/overextendeddev/ox_lib) - For the skill check system
+- [ox_lib](https://github.com/overextended/ox_lib) - For the skill check system
 
 ## 🤝 Contributing
 
